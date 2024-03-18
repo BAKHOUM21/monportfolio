@@ -1,1 +1,1 @@
-Voici mon porfolio et une bonne partie de mon parcours
+Voici mon porfolio montrant une bonne partie de mon parcours
