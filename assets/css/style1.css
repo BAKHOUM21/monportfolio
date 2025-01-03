@@ -576,7 +576,9 @@ section {
   bottom: 0;
   opacity: 1;
 }
-
+img{
+  height:75%;
+}
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
