@@ -3,9 +3,9 @@ name: Integration Continue et deploiement Continue(CI/CD)
 on:
 
     push:
-        branches: -main
+        branches: -cicd
     pull_request:
-        branches: -main
+        branches: -cicd
 
 jobs: 
     frontend-test:
