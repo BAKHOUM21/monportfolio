@@ -12,9 +12,8 @@ jobs:
         runs-on: ubuntu-latest
         defaults:
             run:
-                working-directory: Porfolio
+                working-directory: /
         steps:
-            - uses: actions/checkout@v2
 
             - name: Installation des dépendances
               run: npm install
@@ -40,8 +39,6 @@ jobs:
             contents: read
         
         steps:
-            - uses: actions/checkout@v2
-
             - name: Se connecter
               run: echo"${{secrets.GITHUB_TOKEN}}"
 
