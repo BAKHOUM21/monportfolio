@@ -1,0 +1,13 @@
+{
+    "name": "monportfolio",
+    "version": "1.0.0",
+    "description": "A portfolio project",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "BAKHOUM21",
+    "license": "ISC",
+    "dependencies": {}
+  }
