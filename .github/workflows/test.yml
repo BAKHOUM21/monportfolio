@@ -1,5 +1,5 @@
 
-name: Mon porfolio NodeJS CI
+name: Mon porfolio CI
 on:
   push:
     branches:
@@ -13,10 +13,7 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '18.x'
+     
     - name: Run Yarn 
       run: yarn
     - name: Run tests
