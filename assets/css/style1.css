@@ -1084,3 +1084,7 @@ img{
   width:100%;
   height: 125px;
 }
+.img-fluid{
+  width:100%;
+  height: 250px;
+}
