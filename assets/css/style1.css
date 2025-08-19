@@ -960,6 +960,13 @@ img{
   #hero{
     height: 300px;
   }
+  iframe{
+    margin-top: -5%;
+  }
+  .info{
+    height: 109%;
+    padding-bottom: 5%;
+  }
 }
 
 /*--------------------------------------------------------------
