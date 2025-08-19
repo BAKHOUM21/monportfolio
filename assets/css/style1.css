@@ -957,6 +957,9 @@ img{
   .breadcrumbs ol li {
     display: inline-block;
   }
+  #hero{
+    height: 300px;
+  }
 }
 
 /*--------------------------------------------------------------
