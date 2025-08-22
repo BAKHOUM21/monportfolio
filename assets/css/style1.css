@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #13025e;
   overflow-y: auto;
 }
 
@@ -94,8 +94,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
-  color: #fff;
+  background: #fff;
+  color: #2c2f3f;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
